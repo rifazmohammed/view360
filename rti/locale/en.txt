@@ -1,0 +1,109 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Training facilities of Rubber Training Institute & RUbber Research Institute
+
+## Skin
+
+### Multiline Text
+HTMLText_83B71989_91AD_139C_41D0_26E205633A5A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9099999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
+HTMLText_83B71989_91AD_139C_41D0_26E205633A5A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9099999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
+HTMLText_8864C5A0_91BF_138D_41C2_845DB7C5BE5D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:22px;font-family:'Arial Narrow';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_8864C5A0_91BF_138D_41C2_845DB7C5BE5D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 1.5px rgba(0,0,0,0.6);text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_755D8680_7883_7592_41DC_D15D550CF95D.label = Molecular Microbiology lab
+panorama_755D8FBF_7883_53EE_41D3_132E0E82DAE6.label = Biotechnology lab
+panorama_755DE353_7883_6CB6_41C6_E755DB05E625.label = Biotechnology lab- Culture room
+panorama_75A59A1C_788D_5CB2_41DD_EC69BEDB3DC2.label = QC lab
+panorama_75C03C7B_788D_7576_41B3_A609085062CD.label = Soil and leaf testing lab
+panorama_77A9A93A_7883_5CF6_41B0_1FFF0B89958A.label = Molecular Microbiology lab
+panorama_85F655B2_8FA6_9A0E_41E1_8033A62E1235.label = Garden Area - Rubber Training Institute
+panorama_92371997_8FE1_AA36_41B5_54FE55A449A5.label = Canteen - - Rubber Training Institute
+panorama_93632BF5_8FE2_6E0A_41E1_D251DFFD1ED9.label = Hostel Corridor - - Rubber Training Institute
+panorama_93636FC4_8FE2_A60A_41D2_BDF983039B1D.label = Sastradarshan hall - - Rubber Training Institute
+panorama_93639E94_8FE2_660A_41DB_1A14F90E7021.label = Hostel room (A/C) - - Rubber Training Institute
+panorama_936C8AC5_8FE1_AE0A_41E1_48694F0A2EA4.label =  Student's Gym  - - Rubber Training Institute
+panorama_97BB7ED3_8FA6_A60E_417A_9FB2DDF96D59.label = Entrance - Rubber Training Institute
+panorama_9906BDDF_8FBE_EA36_41D8_EEF7A2132C93.label = Reception - Rubber Training Institute
+panorama_9975B67D_8FA6_E6FA_41CB_763186DD15B9.label = Corridors - - Rubber Training Institute
+panorama_997728A2_8FA6_AA0E_41DA_A81BE3FC8E18.label = Class Room - - Rubber Training Institute
+panorama_997779A1_8FA6_AA0A_41AE_A67B235BDA4A.label = Library - - Rubber Training Institute
+panorama_997F24A3_8FA6_9A0E_41BD_9C6454006E99.label = Auditorium - - Rubber Training Institute
+panorama_9BAB7608_8FA3_E61A_41B9_E2C605A79122.label = Garden Area - Rubber Training Institute 
+panorama_9C4649FA_9055_137C_41E1_11DC2FACA9B4.label = Rubber Technology Workshop
+panorama_9C5A0D22_9055_108C_41B6_A55076725FB6.label = Technical Consultancy lab
+panorama_9C5A3BC0_9055_378C_41DF_F47F1A0CF849.label = Rubber Product Incubation Centre (RPIC)
+panorama_9DD91459_9054_F0BC_41C6_3A67A2877B3D.label = Advanced Centre for Rubber Technology (ACRT)
+panorama_A945F733_8FE7_A60E_41D7_6C0CDA50DF4C.label = Main Gate - Rubber Research Institute
+panorama_ABCD7CA8_8FE6_6A1A_41E0_A0C7D8D076AB.label = Main Gate - Rubber Research Institute
+panorama_ABCF2040_8FE6_9A0A_41CF_6DFD7B8978C6.label = Entrance  - Rubber Research Institute
+panorama_ABCF5353_8FE6_BE0E_41D5_FFF8AA044935.label = Reception - Rubber Research Institute
+panorama_ABCF564B_8FE6_E61E_41D3_7F3B23A0A9CE.label = Genome Lab
+panorama_ABCFD494_8FE6_9A0A_41C2_8E81F635D652.label = Library - Rubber Research Institute
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_650FD077_789C_AD7E_41D8_D36F1273A630.toolTip = Biotechnology Lab
+HotspotPanoramaOverlayArea_682D72A4_790C_A64D_41CF_78CA04522084.toolTip = Entrance  - Rubber Research Institute
+HotspotPanoramaOverlayArea_685713B2_797B_6645_41DC_3DCC798068E9.toolTip = Molecular Microbiology Lab
+HotspotPanoramaOverlayArea_6864A860_791D_62C5_41CB_28C286C458C0.toolTip = Entrance -  ACRT
+HotspotPanoramaOverlayArea_688EB22B_7904_E65B_4163_484C80425B89.toolTip = Rubber Product Incubation Centre
+HotspotPanoramaOverlayArea_68910747_7907_6ECB_41B4_CA8CCD0A307C.toolTip = Reception - RRI
+HotspotPanoramaOverlayArea_6894BB94_790D_A64D_41B2_559140DC88E6.toolTip = Reception - RRI
+HotspotPanoramaOverlayArea_68AAC57E_790C_A2BD_41AC_6F46E0C419C1.toolTip = Biotechnology Lab
+HotspotPanoramaOverlayArea_69359D92_791D_6245_41D1_ACFC26B531A9.toolTip = Corridor
+HotspotPanoramaOverlayArea_694EF9DC_7904_E5FD_41BC_12C91297B9E0.toolTip = Hostel
+HotspotPanoramaOverlayArea_6951ABC5_791D_E5CF_41BA_6EDA30D08E85.toolTip = Gym
+HotspotPanoramaOverlayArea_697C431E_790C_A67D_41D3_8965E6B0A1B1.toolTip = Advanced Centre for Rubber Technology (ACRT)
+HotspotPanoramaOverlayArea_69851645_790B_AECF_41D2_0C8CF8ED2EDA.toolTip = RRI  - Rntrance
+HotspotPanoramaOverlayArea_69B03054_791F_A2CD_41D4_85CDFDD4D47F.toolTip = Reception
+HotspotPanoramaOverlayArea_6A03FF1C_791B_7E7D_41B1_25CBC6FFA950.toolTip = Entrance -  ACRT
+HotspotPanoramaOverlayArea_6A843C33_790C_E24B_41D1_A8BDCD6E1E0A.toolTip = Main Gate - RRI
+HotspotPanoramaOverlayArea_6B095E09_791C_9E47_41B7_6FDB0AEB73CA.toolTip = Entrance -  ACRT
+HotspotPanoramaOverlayArea_6B297388_7905_A645_41A4_DF163FBCF094.toolTip = QC Lab
+HotspotPanoramaOverlayArea_6B4B5B33_790B_A64B_41BA_8D1EF29D3B51.toolTip = Molecular Microbiology lab
+HotspotPanoramaOverlayArea_6B4D8AAF_791B_E65B_41C4_B9B0A03C4CE1.toolTip = Soil and Leaf Testing Lab
+HotspotPanoramaOverlayArea_6B7D8EAA_7905_9E45_41BF_5F50FA89AA6F.toolTip = Molecular Microbiology lab
+HotspotPanoramaOverlayArea_6BABFCE2_790D_A3C5_41DC_D462A78D976A.toolTip = Culture Room
+HotspotPanoramaOverlayArea_6BB2D10E_7904_A25D_41DA_286D99D83F85.toolTip = Rubber Research Institute
+HotspotPanoramaOverlayArea_6BD1CA2E_7907_665D_41DB_AA31873D398C.toolTip = Technical Consultancy Lab.
+HotspotPanoramaOverlayArea_6D7A41AF_7905_625B_41DC_1133F54798BA.toolTip = Rubber Technology Workshop
+HotspotPanoramaOverlayArea_74FBFCD5_790C_E3CF_41D8_BE1B1D05EFB7.toolTip = Auditorium
+HotspotPanoramaOverlayArea_761306DE_7904_AFFD_41DB_55F414F9623F.toolTip = Corridor
+HotspotPanoramaOverlayArea_76F99431_7905_6247_41D2_EA03E258CE22.toolTip = Hostel Room
+HotspotPanoramaOverlayArea_77A84A26_7904_A64D_41D5_B6B4566CFA4C.toolTip = Canteen
+HotspotPanoramaOverlayArea_80B53B04_91B5_1094_4191_8084578B7E93.toolTip = Floor 1 - RTI
+HotspotPanoramaOverlayArea_8F7265B1_80E8_0653_41D9_1271EF67614B.toolTip = Gnome Lab
+HotspotPanoramaOverlayArea_90E96A03_8FE2_6E0E_419B_DF08161F0BE6.toolTip = Canteen
+HotspotPanoramaOverlayArea_9154B342_8FFE_9E0E_41C8_381219B03636.toolTip = Hostel
+HotspotPanoramaOverlayArea_924B23E0_8FE6_9E0A_41B2_B54CF762CE2F.toolTip = Hostel
+HotspotPanoramaOverlayArea_9495A4CB_8FA1_9A1E_41DD_62AB02C7C91E.toolTip = Reception - RTI
+HotspotPanoramaOverlayArea_96824582_8FA3_9A0E_41E1_D52D9C711EF7.toolTip = Corridor
+HotspotPanoramaOverlayArea_96A74C0D_8FA2_6A1A_41D8_C6F5DF22A8AD.toolTip = Classroom
+HotspotPanoramaOverlayArea_96F6F521_8FA2_BA0A_41C3_95994D98D609.toolTip = Library
+HotspotPanoramaOverlayArea_983B74C8_8FA3_BA1A_41CF_2B28E79FBFCE.toolTip = Entrance - RTI
+HotspotPanoramaOverlayArea_98E6B12C_8FA2_9A1A_41D9_63DF8DDC7C84.toolTip = Reception
+HotspotPanoramaOverlayArea_999EBB2A_8FA2_EE1E_41D2_CAC6D68643F4.toolTip = Reception
+HotspotPanoramaOverlayArea_9A2AE07C_8FBF_9AFB_41CD_EEC913D2A099.toolTip = Garden Area
+HotspotPanoramaOverlayArea_A29FAC6B_8FE2_6A1E_41E1_B222D632489C.toolTip = Reception - RRI
+HotspotPanoramaOverlayArea_A41B1F0A_8FEF_A61E_41D6_D022449B8095.toolTip = Garden Area - RRI
+HotspotPanoramaOverlayArea_A5A7EBE5_8FE1_AE0A_41C2_10D05B28A8E2.toolTip = Library - RRI
+HotspotPanoramaOverlayArea_A6F11272_8FE1_BE0E_41C4_48ED6DEE4FDF.toolTip = Main Gate - RRI
+HotspotPanoramaOverlayArea_A78E560C_8FEF_A61A_41D8_0E00307FE438.toolTip = Reception - RRI
+HotspotPanoramaOverlayArea_A7AA24B9_8FE2_BA7A_41CA_C628EDF9CD64.toolTip = Rubber Training Institute
+HotspotPanoramaOverlayArea_A9544EE0_8FE2_E60A_41C4_0CD2C4110FFB.toolTip = Main Gate - Rubber Research Institute
+HotspotPanoramaOverlayArea_A9B4A1A2_8FE3_9A0E_41D8_9FD02C5CFE7F.toolTip = Rubber Research Institute
+HotspotPanoramaOverlayArea_AB24B856_8FE2_AA36_41A3_C41131F3BC95.toolTip = To RRI
+HotspotPanoramaOverlayArea_AFA85110_8FFE_BA0A_41CD_AE7D285F5D30.toolTip = Shatradarshan
